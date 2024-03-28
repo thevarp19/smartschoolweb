@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "safetyschool-5bb16",
+  "private_key_id": "698627e266a5d635ff0901155da9f4d88c5264ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH+ujfpBDdOPNt\n2PmvLCKHH+iniwUR2WkgaHU73NfHaedDx64+JODG118Y3b6Bz+XtQt8ogBryDDXh\najG5BRuAFB3r9O5WdD9jK1x3wun2FqBhdGxmVDY5ZWrhDFbHBO/inOoz5rMi8oLF\n8ht0p+Jc7gWC0/w4i+pwBA5boQDZjPvGEP24IoSphnlyVHyFKp66l+/Cwa4EBIZ6\nccIqlP1pRPbwlySiFo8d/druEsyaJyz71X2UnssuxnXl+w6wHDRVUXys5D7hdie+\nq6VONNvWMH/fyqEurQi+GwSxh5hFwLZqPvkVV9AbEhQGAcScPHihHVVov6LDe3Iv\nwYLyMy/3AgMBAAECggEAOh5fKIPPjON8x7tr0S+T905cOLkL56SWS19gVt33bhKG\nrimtp4zjMJauIhVrxOFNUteA8I3OhvLqg9Dvk3R7Cg2OpqEf1Utikqkq7fldMnJf\n+QKzcEfgHG0vkykZXSy/pM3yuNO+0xTE0c9rkEssW9KnEl8Wab6sCxL6s0GG9DJj\n8MmZbIbqelwBn4R+CP8nf6Q81CoOywmfgQu6mbj4op+MAc0IxgOi2rDWlwIgPix8\n8zgr0DlWqD0tPJzBnFDRxMXkxpxbX5taov3xLfjpusyGpaHvgmWUPPSDUYT/glyz\nNgPach6ffZbf/1ehOLQGaqb8mUbvyZlSe+nNEBHadQKBgQDp8sUvGXIa8WBGJrwS\nq3zK5iTNQSd4LNwQrH1YjgwJkENNqmq4dmLMmF5a2ngl/1aO4n7HIrOty3NwTwdg\nBvF+ByyNYBZFNEa39OEfVCQwpvw7mGZshn2zsDL6D8cxyOaISwQ9bRkKzdTcP6VL\nxoWaoV8O/UC4Jr7yxXLUqnx+VQKBgQDa1Hp2xqFtKcciR2gxpdXY9BzyNUYO39QX\nfrRn0Vl+uS7XN37hezSm7ittt/EVy97lkU2IPKn5wWKbVGE3CWyLQod9G2T7l6FD\ncUMlOXUVBWLtWTMJkWv2OqW9vJTz3dTbTAUeRcwV79dEsENKMpETqLH+WMrc3lpP\nxycJmT1pGwKBgCymZPPkS17RCqrY4bQ+fobK/eMeuEW7ahTUlue71JhOrEm6aLvj\n/F9IBVoZsCywWvjSSZgAC4Lz/YhFzQaKzLRc8ifZWubCX2zkk8LC8FVIyYMmRwYX\ndQ5CZrhLIp1h1n3Us251z/274xBWJVoc/YrRma7mrt92paL4BD6Ke1AxAoGBAMDn\n4FFGhtWBp78LLcnehCauA7psxiakoAZaNtTyUy+INceZb2t8Pg0OFhCxv4BUaVj8\nf1mjCMBX/wIpH03yK9KTwnbCKII1x/55IRT2ksUGK5BKOtirbn3wc11Qmgpkupjb\nagOmyeNou98cdyU4cHXhF4+9XI/aH8kGKd6nTOCTAoGAQ0oN8mt9htM1gsOBp6AV\nyx6fzFoKeRHaod9ssoPV/Zuor50VRab+qrKC9hLsk7W+8Y6Btkl1xPlqCGYOyw/9\nNw66Gy8wAHH3/1bFpTwq3ctSNxdAmhnR9FWJFdVnQ3dciicL97Y9UupOdgbnpcgW\nysl+wpFIAnDNuko1fa70KGE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wpzom@safetyschool-5bb16.iam.gserviceaccount.com",
+  "client_id": "115833371479191014330",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wpzom%40safetyschool-5bb16.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
